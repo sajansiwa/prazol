@@ -1,0 +1,26 @@
+﻿.staffPageHeader { 
+    display: flex;
+    justify-content: space-between;
+    color: grey; 
+    font-weight: bold;
+}
+
+.table{
+    width: 100%;
+}
+
+.withdrawnRows { 
+    background: grey; 
+    
+}
+
+.aprovebtn { 
+    height: 45px;
+    width: 150px;
+    border-radius: 10px;
+    border: 2px solid green;
+    align-items: center;
+    margin-right: 20px;
+}
+
+

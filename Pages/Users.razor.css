@@ -1,0 +1,21 @@
+﻿.userPageHeader { 
+    display: flex;
+    justify-content: space-between;
+    color: grey;
+}
+
+.Pagetitle { 
+    font-weight: bold;
+}
+
+.Button { 
+    background: grey; 
+    height: 40px;
+    width: 85px;
+    border-radius: 10px;
+}
+
+.userstable { 
+    background: grey; 
+    width: 100%;
+}

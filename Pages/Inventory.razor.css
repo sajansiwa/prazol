@@ -1,0 +1,39 @@
+﻿.InventorPageHeader {
+    display: flex;
+    justify-content: space-between;
+    color: grey; 
+    font-weight: bold;
+}
+
+.Pagetitle {
+    font-weight: bold;
+}
+
+.Button { 
+    background: grey; 
+    height: 40px;
+    width: 120px;
+    border-radius: 10px;
+}
+
+.Rows { 
+    background: grey; 
+}
+
+.aprovebtn { 
+    height: 45px;
+    width: 90px;
+    border-radius: 10px;
+    border: 2px solid green;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.rejectbtn { 
+    height: 45px;
+    width: 90px;
+    border-radius: 10px;
+    border: 2px solid red;
+    align-items: center;
+    margin-left: 20px;
+}

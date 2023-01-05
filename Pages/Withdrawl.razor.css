@@ -1,0 +1,27 @@
+﻿.withdrawnPageHeader { 
+    color: grey; 
+}
+
+/*.Pagetitle { 
+    font-weight: bold;
+}*/
+
+.withdrawnRows { 
+    background: grey; 
+}
+
+.aprovebtn { 
+    height: 45px;
+    width: 90px;
+    border-radius: 10px;
+    border: 2px solid green;
+    align-items: center;
+}
+
+.rejectbtn { 
+    height: 45px;
+    width: 90px;
+    border-radius: 10px;
+    border: 2px solid red;
+    align-items: center;
+}
